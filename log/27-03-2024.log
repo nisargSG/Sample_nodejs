@@ -1,0 +1,105 @@
+-------Logs--------
+[+] 27-03-2024 14:24:26 Connected with DB
+[+] 27-03-2024 14:24:45 Connected with DB
+[+] 27-03-2024 14:35:12 Server is listening at 3000
+[+] 27-03-2024 14:48:25 Server is listening at 3000
+[+] 27-03-2024 14:48:28 Server is listening at 3000
+[*] 27-03-2024 14:48:38 GET /
+[*] 27-03-2024 14:49:26 GET /home
+[+] 27-03-2024 14:49:29 Server is listening at 3000
+[*] 27-03-2024 14:49:34 GET /home
+[*] 27-03-2024 14:49:34 GET /favicon.ico
+[+] 27-03-2024 14:50:16 Server is listening at 3000
+[*] 27-03-2024 14:50:57 GET /
+[*] 27-03-2024 14:51:11 GET /home
+[*] 27-03-2024 14:51:41 GET /home
+[+] 27-03-2024 14:52:02 Server is listening at 3000
+[*] 27-03-2024 14:52:25 GET /home
+[*] 27-03-2024 14:53:11 GET /home
+[+] 27-03-2024 14:53:17 Server is listening at 3000
+[*] 27-03-2024 14:53:20 GET /home
+[*] 27-03-2024 14:53:20 GET /favicon.ico
+[*] 27-03-2024 14:53:29 GET /home
+[+] 27-03-2024 14:54:45 Server is listening at 3000
+[*] 27-03-2024 14:54:50 GET /home
+[*] 27-03-2024 14:54:51 GET /home
+[*] 27-03-2024 14:54:52 GET /home
+[*] 27-03-2024 14:54:52 GET /home
+[*] 27-03-2024 14:54:53 GET /home
+[*] 27-03-2024 14:55:18 GET /home
+[*] 27-03-2024 14:55:24 GET /about
+[*] 27-03-2024 14:55:33 GET /index
+[+] 27-03-2024 14:55:52 Server is listening at 3000
+[*] 27-03-2024 14:55:55 GET /index
+[*] 27-03-2024 14:56:03 GET /home
+[*] 27-03-2024 14:56:19 GET /home
+[*] 27-03-2024 14:56:19 GET /favicon.ico
+[+] 27-03-2024 14:56:56 Server is listening at 3000
+[*] 27-03-2024 14:57:01 GET /home
+[*] 27-03-2024 14:57:05 GET /index
+[*] 27-03-2024 14:58:02 GET /index
+[+] 27-03-2024 14:58:11 Server is listening at 3000
+[*] 27-03-2024 14:58:14 GET /index
+[+] 27-03-2024 14:59:05 Server is listening at 3000
+[*] 27-03-2024 14:59:19 GET /
+[*] 27-03-2024 14:59:19 GET /favicon.ico
+[+] 27-03-2024 15:03:05 Server is listening at 3000
+[*] 27-03-2024 15:03:22 GET /
+[*] 27-03-2024 15:03:29 GET /
+[*] 27-03-2024 15:07:05 GET /
+[*] 27-03-2024 15:08:46 GET /
+[+] 27-03-2024 15:08:46 Server is listening at 3000
+[*] 27-03-2024 15:08:52 GET /
+[+] 27-03-2024 15:08:57 Server is listening at 3000
+[*] 27-03-2024 15:09:00 GET /
+[*] 27-03-2024 15:09:01 GET /
+[+] 27-03-2024 15:09:44 Server is listening at 3000
+[+] 27-03-2024 15:09:49 Server is listening at 3000
+[*] 27-03-2024 15:09:49 GET /
+[+] 27-03-2024 15:09:59 Server is listening at 3000
+[+] 27-03-2024 15:10:02 Server is listening at 3000
+[+] 27-03-2024 15:10:07 Server is listening at 3000
+[+] 27-03-2024 15:10:11 Server is listening at 3000
+[*] 27-03-2024 15:10:15 GET /
+[+] 27-03-2024 15:10:37 Server is listening at 3000
+[*] 27-03-2024 15:10:38 GET /
+[*] 27-03-2024 15:10:43 GET /dawdawdaw
+[*] 27-03-2024 15:10:43 GET /dawdawdaw
+[+] 27-03-2024 15:11:06 Server is listening at 3000
+[*] 27-03-2024 15:11:15 GET /dawdawdaw
+[*] 27-03-2024 15:11:19 GET /dawdawdawdawdawd
+[*] 27-03-2024 15:11:23 GET /hi
+[+] 27-03-2024 15:12:42 Server is listening at 3000
+[*] 27-03-2024 15:12:48 GET /
+[*] 27-03-2024 15:12:56 GET /dawdawdaw
+[*] 27-03-2024 15:12:58 GET /dawdawd
+[*] 27-03-2024 15:13:07 GET /dnaw
+[*] 27-03-2024 15:13:19 GET /dawdawddawdawd
+[*] 27-03-2024 15:13:28 GET /dawdawdawdawda
+[+] 27-03-2024 15:13:52 Server is listening at 3000
+[*] 27-03-2024 15:13:55 GET /dawdawdaw
+[*] 27-03-2024 15:14:02 GET /
+[*] 27-03-2024 15:14:16 GET /
+[*] 27-03-2024 15:14:26 POST /
+[+] 27-03-2024 15:14:51 Server is listening at 3000
+[+] 27-03-2024 15:15:41 Server is listening at 3000
+[*] 27-03-2024 15:15:51 POST /home
+[+] 27-03-2024 15:16:06 Server is listening at 3000
+[+] 27-03-2024 15:16:27 Server is listening at 3000
+[+] 27-03-2024 15:16:31 Server is listening at 3000
+[+] 27-03-2024 15:16:37 Server is listening at 3000
+[*] 27-03-2024 15:16:39 GET /index
+[+] 27-03-2024 15:16:45 Server is listening at 3000
+[*] 27-03-2024 15:16:46 GET /index
+[*] 27-03-2024 15:16:51 GET /home
+[*] 27-03-2024 15:16:55 GET /dashboard
+[*] 27-03-2024 15:16:59 GET /1234
+[*] 27-03-2024 15:17:04 POST /index
+[*] 27-03-2024 15:17:09 PUT /idawdawd
+[+] 27-03-2024 15:17:28 Server is listening at 3000
+[+] 27-03-2024 15:17:37 Server is listening at 3000
+[+] 27-03-2024 15:30:10 Server is listening at 3000
+[+] 27-03-2024 15:30:19 Server is listening at 3000
+[*] 27-03-2024 15:30:34 GET /users
+[+] 27-03-2024 15:33:05 Server is listening at 3000
+[+] 27-03-2024 15:38:08 Server is listening at 3000

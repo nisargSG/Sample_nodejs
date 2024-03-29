@@ -1,0 +1,30 @@
+doctype html
+html(lang="en")
+  head
+    include includes/bootstrap.pug
+    link(rel="stylesheet", href="css/index.css")
+    
+
+  body
+    div.p-5.mb-4.bg-light
+      div.container-fluid.py-5.row
+
+        div.container.col-md-6
+          h1.display-5.fw-bold Login To Continue
+          p.fs-4 Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam error totam quae beatae. Doloremque laudantium assumenda consequatur quaerat alias fugit!
+          
+        div.container.col-md-6.card.text-white.bg-dark.mb-3(style='max-width: 18rem;')
+          div.card-header Login
+          div.card-body
+            h5.card-title Let's Start Something New
+
+            .form-floating.mb-3
+              input.form-control(type='email', id='INPUT_EMAIL', placeholder='name@example.com')
+              label.dark(for='INPUT_EMAIL') Email address
+            .form-floating.mb-3
+              input.form-control(type='password', id='INPUT_PASSWORD', placeholder='Password')
+              label.dark(for='INPUT_PASSWORD') Password
+            .alert.alert-danger.mb-3(role='alert') invalid Credentials
+            button.btn.btn-secondary.w-100(type='button' id='BTN_LOGIN') Login
+    
+    script(src="js/index.js")
